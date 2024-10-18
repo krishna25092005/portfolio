@@ -179,7 +179,7 @@ const Navbar = () => {
 
         <ButtonContainer>
           <GithubButton href={Bio.github} target="_Blank">
-            Github Account
+            GitHub Account
           </GithubButton>
         </ButtonContainer>
       </NavbarContainer>
