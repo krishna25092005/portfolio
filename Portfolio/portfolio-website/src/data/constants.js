@@ -287,7 +287,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/C560BAQHOmAVZUHjB1Q/company-logo_100_100/company-logo_100_100/0/1630655965904/amityuniversitygwalior_logo?e=1737590400&v=beta&t=6UIqrTo-22fPPBqmS8V3JMEfRoNkxlJs7_MGQyE7Mvc",
+    img: "https://github.com/user-attachments/assets/2c52af09-189c-4987-a006-2cab03f66658",
     school: "Amity University, Gwalior",
     date: "Sep 2023 - Sep 2027",
     grade: "9.42 CGPA | 9.48 SGPA",
@@ -403,7 +403,7 @@ export const projects = [
     description:
       "I developed a secure password generator that allows users to customize the length and character sets. Utilizing Python's 'random' module for randomness and the 'string' module for character sets, I created a simple yet effective tool aimed at enhancing password security practices.",
     image:
-      "https://media.licdn.com/dms/image/v2/D4D2DAQFVUp8qllO36w/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1718634355035?e=1729868400&v=beta&t=yF6bep14zkS2dtB6PiIhNj3D4NDWQ9d6VXWN9h5nzy4",
+      "https://github.com/user-attachments/assets/bbd70004-5831-4cf1-bd1e-20e92bed07d9",
     tags: ["Python", "Modules", "GUI Programming"],
     category: "console app",
     github: "https://github.com/krishna25092005/password_generator",
